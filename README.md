@@ -38,6 +38,8 @@ pip install pandas wordcloud emoji matplotlib seaborn nltk gradio urlextract
   Run the notebook and wait for it to deploy on gradio.  
   
 **3.Using the Web Interface:**
+<img width="818" alt="Demo" src="https://github.com/user-attachments/assets/f9915219-b6ef-4bfc-ac88-fa2b170a7be5" />
+
 - Upload your chat .txt file
 - Select analysis type:
    - Most Active Senders
@@ -66,12 +68,21 @@ pip install pandas wordcloud emoji matplotlib seaborn nltk gradio urlextract
 ### Visualization Types
 **Activity Analysis**  
 - Bar charts for sender activity
+  <img width="718" alt="most active senders" src="https://github.com/user-attachments/assets/bd9ce6e4-5d5a-42fa-9a84-2ff3670fe1e0" />
+
 - Time series plots for message frequency
+  <img width="863" alt="messageovertime" src="https://github.com/user-attachments/assets/f8e1a76d-56ea-4ed6-94a0-581f57dbe85f" />
+
 - Hourly activity heatmaps
+<img width="599" alt="Hourly actiity" src="https://github.com/user-attachments/assets/b7aa632b-9de5-4adb-8816-58821cc7f8a2" />
 
 ### Content Analysis
 - Word clouds for common terms
+  <img width="803" alt="wordcloud" src="https://github.com/user-attachments/assets/52e19057-29c2-4e35-a272-4f186a2a95bd" />
+
 - Emoji frequency charts
+ <img width="770" alt="most common emojis" src="https://github.com/user-attachments/assets/2205a882-e3f0-4338-82ed-7323b55a9756" />
+
 - Message length statistics
 
 ### Data Privacy
